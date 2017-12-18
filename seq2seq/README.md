@@ -1,0 +1,1 @@
+fork from [https://github.com/fanfanfeng/nlp_research/tree/f485f05ab971d13382a84b227520a87a0e7a00ac/seq2seq](https://github.com/fanfanfeng/nlp_research/tree/f485f05ab971d13382a84b227520a87a0e7a00ac/seq2seq)
